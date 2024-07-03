@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "name": "middlewares",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000i\u0000d\u0000d\u0000l\u0000e\u0000w\u0000a\u0000r\u0000e\u0000D\u0000a\u0000y\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
